@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ls -mp | sort --dictionary-order
